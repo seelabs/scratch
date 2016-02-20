@@ -1,0 +1,8 @@
+pushd rtags_build
+. cleanup_cmake_dir
+. ./make_compile_commands
+. reload_rtags
+popd
+
+. cleanup_cmake_dir
+. ./make_ninja

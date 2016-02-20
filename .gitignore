@@ -1,0 +1,10 @@
+/build.ninja
+/cmake_install.cmake
+/perf.data.old
+/rules.ninja
+/CMakeCache.txt
+/CMakeFiles/*
+/.ninja_deps
+/.ninja_log
+/compile_commands.json
+/scratch
